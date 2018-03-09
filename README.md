@@ -1,7 +1,7 @@
 # FortniteProcessPriority
 Permanently set process priority in Fortnite.
 
-Before executing, ensure the .reg files are safe. They should like like this:
+Before executing, ensure the .reg files are safe. They should look like this:
 -----------------------------------------------------------------------------
 
 Windows Registry Editor Version 5.00
