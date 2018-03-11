@@ -1,6 +1,8 @@
 # FortniteProcessPriority
 Permanently set process priority in Fortnite.
 
+These registry fixes will allow you to change Fortnite's process priority, and permanently. For streamers, I recommend using the High Priority file and setting your streaming program's priority to Above Normal. For everyone else, use High Priority. To revert to normal, use the Normal file.
+
 Before executing, ensure the .reg files are safe. They should look like this:
 -----------------------------------------------------------------------------
 
