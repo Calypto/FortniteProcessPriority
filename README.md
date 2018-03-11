@@ -1,6 +1,4 @@
 # FortniteProcessPriority
-Permanently set process priority in Fortnite.
-
 
 These registry fixes will allow you to change Fortnite's process priority, and permanently. I made these .reg files because the EasyAntiCheat wouldn't let me change my priority, and to make it easier to share them with others.
 
